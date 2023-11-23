@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(77, 74, 245);
+}
+button{
+    background-color: brown;
+    height: 100px;
+    width: 200px;
+    
+
+}
+button:hover{
+    box-shadow: 2px 2px 7px 2px red;
+    border-color: blue;
+}
+
+button{
+    width: 163px;
+    height: 50px;
+    background-color: azure;
+    text-align: center;
+    font-weight: bold;
+    margin: 4px;
+    border-radius: 10px;
+
+    
+}
+header > div{
+    background-color: rgb(198, 255, 198);
+    height: 90px;
+    width: 500px;
+    border: solid 2px black;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 20px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 60px;
+    
+}
+div#princ{
+    
+    margin: auto;
+    margin-top: 170px;
+    width: 541px;
+    height: 441px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.452);
+}
+button#metodo{
+    height: 50px;
+    width: 123px;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: rgb(95, 95, 236);
+}
+div#n1{
+    color:rgb(77, 74, 245);
+}
+div#metod{
+    color: rgb(77, 74, 245);
+}
+button#rezet{
+    background-color: gray;
+}
+button#enter{
+    background-color: rgb(107, 248, 107);
+}
+button:active{
+    box-shadow: inset 2px 2px 5px 2px rgba(0, 0, 0, 0.788);
+}
